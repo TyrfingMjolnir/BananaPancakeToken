@@ -1,2 +1,2 @@
 # BananaPancakeToken
-BananaPancakeToken Etherium token
+BananaPancake Etherium token
