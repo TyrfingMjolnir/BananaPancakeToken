@@ -18,7 +18,7 @@ contract BananaPancakeToken is IERC20 {
     }
 
     function totalSupply() public constant returns (uint256 totalSupply){
-        return totalSupply;
+        return _totalSupply;
     }
 
     function balanceOf( address _owner) public constant returns(uint256 balance){
